@@ -1,0 +1,23 @@
+/* 
+# Creator : Ilham Taufiq (haiueom) 👋
+# Github  : https://github.com/haiueom/
+*/
+
+.container {
+  max-width: 600px;
+}
+
+.gambar-profile img {
+  border-radius: 50%;
+  margin: 1.5em 0 2.5em 0;
+  width: 30%;
+}
+
+.judul {
+  margin-bottom: 5em;
+}
+
+.judul > h2,
+.judul > h1 {
+  margin-bottom: 0.5em;
+}
